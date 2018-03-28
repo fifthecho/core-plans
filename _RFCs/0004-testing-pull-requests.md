@@ -11,6 +11,8 @@ Pull requests to core plans (whether new core plans or updates to existing ones)
 # Motivation
 [motivation]: #motivation
 
+Stability and reliability of core plans is central to the user experience and is therefore a top priority of core plans maintainers. Having a way to test an updated or new core plan helps improve the quality of core plans, and provides confidence in the change submitted.
+
 Part of what makes pull requests to core plans linger open for so long is that, although many people are comfortable with reviewing the code, many are hesitant to merge, release, and promote the package for fear of breaking it or other packages dependent on it.  A future automated testing framework (currently in development) will automate much of this testing, but before we can automate testing something, we need to know how to test it manually.
 
 # Guide-level explanation
